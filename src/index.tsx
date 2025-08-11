@@ -6,6 +6,7 @@
  * npm i --save react-apexcharts apexcharts
  * npm i recoil
  * npm i react-hook-form
+ * npm i recoil-persist
  */
 
 import ReactDOM from "react-dom/client";
